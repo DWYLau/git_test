@@ -1,3 +1,5 @@
-# git_test
-My first GitHub repo!
-Hello Odin!
+# Git Testing
+
+## About
+
+Learning Git commands from The Odin Project.
